@@ -14,8 +14,7 @@ Third-year Software Engineering student at ITMO University
 
 ---
 
-I enjoy finding overlooked problems and building practical tools to solve them. I develop .NET microservices and developer tools, paying particular attention to retries, duplicate messages, and what happens when a dependency fails.
-
+I build backend services and developer tools with on .NET. I enjoy exploring how things work, finding useful problems to solve, and turning ideas into practical projects.
 ## Stack
 
 <p>
